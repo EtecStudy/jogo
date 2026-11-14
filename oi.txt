@@ -1,0 +1,5 @@
+Pergunta: Você consegue me Ler?
+
+Resposta: Sim, consigo te ler! Li o seu oi.txt na branch arena/f5bf3d0f-jogo (e a release v0.0.1 também está acessível).
+
+Esta resposta foi escrita na branch arena/b24f30d6-jogo.
